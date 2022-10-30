@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tyler Schulten
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on anything made in React 
+-  Hi, I’m Tyler Schulten
+-  I’m interested in Web development
+-  I’m currently learning TypeScript
+-  I’m looking to collaborate on anything made in React 
 
 
 <!---
