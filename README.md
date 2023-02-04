@@ -1,4 +1,4 @@
-Hello, I’m Tyler Schulten and code is my favorite. 
+Code is my favorite. 
 
 
 
