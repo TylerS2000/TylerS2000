@@ -1,5 +1,5 @@
 Code is my favorite. 
-Software Engineeer for Kroger.
+Software Engineer for Kroger.
 
 
 <!---
